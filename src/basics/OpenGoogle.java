@@ -16,6 +16,7 @@ public class OpenGoogle {
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://www.google.co.in");
 		driver.findElement(By.name("q")).sendKeys("Salem"+Keys.ENTER);
+		//driver.findelements
 		
 
 	}
