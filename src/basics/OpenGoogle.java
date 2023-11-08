@@ -17,6 +17,7 @@ public class OpenGoogle {
 		driver.get("https://www.google.co.in");
 		driver.findElement(By.name("q")).sendKeys("Salem"+Keys.ENTER);
 		//driver.findelements
+		//git comment checking
 		
 
 	}
