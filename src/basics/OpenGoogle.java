@@ -18,6 +18,7 @@ public class OpenGoogle {
 		driver.findElement(By.name("q")).sendKeys("Salem"+Keys.ENTER);
 		//driver.findelements
 		//git comment checking
+		//conflict check in remote
 		
 
 	}
